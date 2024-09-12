@@ -1,0 +1,14 @@
+{
+  "name": "proyectoautomatizacion1",
+  "version": "1.0.0",
+  "description": "Proyecto de Automatizacion1",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.47.0",
+    "@types/node": "^22.5.4"
+  }
+}
